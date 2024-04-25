@@ -7,3 +7,6 @@ Intern at Tessolve | Pre-final Year Student | Passionate about Embedded Machine 
 
 - 🧠 I'm currently learning NLP ✨
 - My favourite project '[Community Chat](https://communitychat.vercel.app/)'
+
+
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/clatson?theme=dark&font=Noto%20Sans%20Adlam)
