@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Clatson
 <br>
-Intern at Sellergeni | Final Year Student | Passionate about Machine Learning
+Intern at Sellergeni | Final Year Student | Passionate about AI and Web3
 
 
 - [This is my github page] (https://github.com/clatsonin/clatsonin)
